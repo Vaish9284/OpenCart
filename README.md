@@ -1,2 +1,0 @@
-# OpenCart
-manual testing project
